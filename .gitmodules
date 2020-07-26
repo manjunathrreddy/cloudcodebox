@@ -1,3 +1,6 @@
 [submodule "themes/light"]
 	path = themes/light
 	url = https://github.com/manjunathrreddy/hexo-theme-light.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/manjunathrreddy/hexo-theme-next-1.git
