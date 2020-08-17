@@ -41,7 +41,7 @@ VAGRANTFILE_API_VERSION = "2"
     cicd-admin-server.vm.network :private_network, ip: "192.168.60.10"
     	cicdserver.vm.provision "shell" do |shell|
     	shell.path = "jenkins.sh"
-  		end
+  	end
   end
 
 # Node VM - 1
