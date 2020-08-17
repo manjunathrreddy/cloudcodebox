@@ -63,12 +63,6 @@ end
 
 
 
-Now while we try to hit the URL: http://192.168.60.10:8080/
-
-
-
-![image-20200817212213660](D:\Data\Personal_blog_environment\cloud-garage-blog\source\_posts\image_jenkins\image-20200817212213660.png)
-
-
+Now  try to hit the URL: http://192.168.60.10:8080/
 
 Apply the password that is printed during the vagrant spinning up the vm.
