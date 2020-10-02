@@ -1,3 +1,8 @@
+title: Provissioning Jenkins with Vagrant
+date: 2020-10-02
+tags: [jenkins, vagrant]
+
+---
 99 percent of the time our work revolves around surfing the internet in search of solutions for all the day to day hassles. All the contents that I surf mostly deals with basic DevOps and Cloud Orchestration Solutions,  but for more complex problems there seems to be no single website that could explain a SRE thirst for best practices that we could approach in a more professional way in our daily work life.
 
 This site intends to do just that. I prefer to dive in straight to the point where it matters. Here I wish upon building right from setting up a development environment that will be used to build more complex solutions in the future.   At the time of starting this blog, my development environment looks like the below:
