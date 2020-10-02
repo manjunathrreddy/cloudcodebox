@@ -1,4 +1,4 @@
-title: Space for DevOps / SRE Solutions
+title: ''
 subtitle: ''
 description: ''
 keywords: null
@@ -24,7 +24,7 @@ new_post_name: ':title.md'
 default_layout: post
 titlecase: false
 external_link:
-  enable: true
+  enable: false
   field: site
   exclude: ''
 filename_case: 0
