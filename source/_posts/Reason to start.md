@@ -1,4 +1,4 @@
-title: Provissioning Jenkins with Vagrant
+title: Gathering the Building Blocks!!
 date: 2020-10-02
 tags: [jenkins, vagrant]
 
