@@ -1,3 +1,9 @@
+title: Provissioning Jenkins with Vagrant
+date: 2020-10-02
+tags: [jenkins, vagrant]
+
+---
+
 We will further install a Jenkins Instance while initializing a vagrant box. The refined Vagrant and the related jenkins installation is as below:
 
 Jenkins.sh should be at the same level as vagrantfile
