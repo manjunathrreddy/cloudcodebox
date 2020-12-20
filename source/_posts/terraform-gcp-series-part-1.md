@@ -209,7 +209,7 @@ The server instance created in the vm console
 
 
 
-{% asset_img gcp_server_jpg.jpg %}
+{% asset_img gce_server_jpg.jpg %}
 
 
 
