@@ -1,4 +1,4 @@
-title: Provissioning Jenkins with Vagrant
+title: Provisioning Jenkins with Vagrant
 date: 2020-10-02
 tags: [jenkins, vagrant]
 
