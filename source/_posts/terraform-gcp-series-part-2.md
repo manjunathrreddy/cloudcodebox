@@ -21,7 +21,7 @@ provider "google" {
 }
 ```
 
-Firewall rules can be defined in a separate file as **firewall.tf ** as below:
+Firewall rules can be defined in a separate file as **firewall.tf** as below:
 
 *firewall.tf*
 
