@@ -209,7 +209,7 @@ The server instance created in the vm console
 
 
 
-{% asset_img gcp_server.png %}
+{% asset_img gcp_server_jpg.jpg %}
 
 
 
@@ -217,7 +217,7 @@ The Apache webserver running in that instance
 
 
 
-{% asset_img apache_server.png %}
+{% asset_img apache_server_jpg.jpg %}
 
 
 
