@@ -191,7 +191,39 @@ resource "google_compute_instance" "test_instance" {
 
 }
 
+output "machine_type" {
+  value = "${google_compute_instance.test_instance.machine_type}"
+}
+
+output "name" {
+  value = "${google_compute_instance.test_instance.name}"
+}
+
 ```
+
+
+
+Here below are the results of the above resources created in GCP.
+
+The server instance created in the vm console
+
+
+
+{% asset_img gcp_server.png %}
+
+
+
+The Apache webserver running in that instance
+
+
+
+{% asset_img apache_server.png %}
+
+
+
+In the next part we will further refine the above script by splitting the script into different files and terraform interpolation.
+
+
 
 
 
