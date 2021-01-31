@@ -189,7 +189,7 @@ The results of the above experiments are as below:
 
 
 
-{% asset_img server_instances.jpg %}
+{% asset_img server_instances.JPG %}
 
 
 
