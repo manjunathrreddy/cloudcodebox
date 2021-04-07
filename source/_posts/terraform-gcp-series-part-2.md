@@ -1,5 +1,5 @@
 ---
-title: Terraform GCP Series - Part 2: Making Terraform Dynamic with Interpolation
+title: Terraform GCP Series - Part 2 - Making Terraform Dynamic with Interpolation
 date: 2020-11-07 14:06:49
 tags: [Terraform, GCP]
 ---
