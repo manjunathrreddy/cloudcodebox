@@ -261,4 +261,4 @@ The for_each meta argument will assign the values to the arguments from the list
 
 
 
-And the above command create compute instances depending on the tfvars file while deploying.
+And the above command create compute instances depending on the .tfvars files passed while applying .
