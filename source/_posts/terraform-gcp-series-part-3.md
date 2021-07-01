@@ -24,7 +24,7 @@ The folder structure goes as below
     -- app-qa.tfvars
 ```
 
-The ***varaibles.tf*** file will be used to declare the variables and to assign few default settings
+The ***varaibles.tf*** file will be used to declare the variables and to assign few default values.
 
 ```
 variable "test_servers" { 
