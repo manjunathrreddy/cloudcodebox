@@ -6,6 +6,10 @@ tags:
 
 The purpose of this series of posts on Terraform with GCP is to accomplish more with less.  Here we try to optimize our templates for bringing up multiple environments across multple projects in GCP.  Below approach will help spin multiple instances with minimal efforts by introducing .tfvars files into our templates.
 
+***Use case***: I have 2  projects gcp-homecompany-qa and gcp-homecompany-dev for this purpose and we will have to create compute instances with terraform on GCP. Lets get on with it.
+
+
+
 The folder structure goes as below
 
 ```
@@ -249,4 +253,12 @@ resource "google_compute_instance" "test_instance" {
   }
 ```
 
-The for_each meta argument will assign the values to the arguments from the list with key-value pair. 
+The for_each meta argument will assign the values to the arguments from the list with key-value pair. While we can now test the above  template. For generalizing the network, subnet and load balancer related stuffs, I will post in the future articles.
+
+
+
+`terraform apply -var-file=app-<env>.tfvars`
+
+
+
+And the above command create compute instances depending on the tfvars file while deploying.
