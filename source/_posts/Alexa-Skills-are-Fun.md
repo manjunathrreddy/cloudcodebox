@@ -14,6 +14,28 @@ Home automation with Alexa Skills is a breeze, and a eases the life for many lik
 
 
 
+The Alexa Invocation Phrase typically consists of 5 parts:
+
+
+
+***Wake Word*** : This triggers the alexa device voice interactions, wake words are very few as of now like Amazon, Computer, Echo apart from **Alexa** itself
+
+***Launch Word*** : is used to invoke the skills, it can be ask, get, open, start and so on
+
+***Skill / Invocation Name*** : Skill or Invocation name is the actual custom skill that we will develop, flash breifing and smart home skill don not require a Invocation name.
+
+***Utterance*** : Utterance is nothing but the actions the skills should perform as in to read, to sing, to play and so on
+
+***Slot Values*** : These are the values that Alexa converts them into voice interfaces, Utterances and Slot values should be related to the Skills. 
+
+
+
+With this basic understanding we will design a voice interface model in the next article. ***By For Now!!!***
+
+
+
+
+
 
 
 
