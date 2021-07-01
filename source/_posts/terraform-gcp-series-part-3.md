@@ -4,7 +4,7 @@ date: 2021-05-25 22:13:23
 tags: [Terraform, GCP, Terraform GCP Series]
 ---
 
-The purpose of this series of posts on Terraform with GCP is to accomplish more with less.  Here we try to optimize our templates for bringing up multiple environments across multple projects in GCP.  Below approach will help spin multiple instances with minimal efforts by introducing .tfvars files into our templates.
+The purpose of this series of posts on Terraform with GCP is to accomplish more with less.  Here we try to optimize our templates for bringing up multiple environments across multiple projects in GCP.  Below approach will help spin multiple instances with minimal efforts by introducing .tfvars files into our templates.
 
 ***Use case***: I have 2  projects gcp-homecompany-qa and gcp-homecompany-dev for this purpose and we will have to create compute instances with terraform on GCP. Lets get on with it.
 
