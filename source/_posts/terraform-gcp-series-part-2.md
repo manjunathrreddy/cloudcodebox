@@ -1,7 +1,7 @@
 ---
-title: Terraform GCP Series - Part 2 - Making Terraform Dynamic with Interpolation
+title: Making Terraform Dynamic with Interpolation
 date: 2020-11-07 14:06:49
-tags: [Terraform, GCP]
+tags: [Terraform, GCP, Terraform GCP Series]
 ---
 
 Continuing from the previous post we will try to introduce interpolation, flow control and looping. We will split the main.tf to different chunks of files that hold specific definitions to create the resources in GCP. We will create the **provider.tf** file which holds the provider configurations. 

@@ -1,7 +1,7 @@
 ---
-title: Terraform And GCP Series - Part 1
+title: Beginning Terraform with GCP
 date: 2020-10-04 21:59:58
-tags: [Terraform, GCP]
+tags: [Terraform, GCP, Terraform GCP Series]
 ---
 
 

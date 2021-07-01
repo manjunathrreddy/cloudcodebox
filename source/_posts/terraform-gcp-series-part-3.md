@@ -1,7 +1,7 @@
 ---
-title: Terraform-gcp-series-part-3 => Optomizing Terraform to Orchestrate Multiple Environment
+title: Orchestrate Multiple Environments with GCP
 date: 2021-05-25 22:13:23
-tags: [Terraform, GCP]
+tags: [Terraform, GCP, Terraform GCP Series]
 ---
 
 The purpose of this series of posts on Terraform with GCP is to accomplish more with less.  Here we try to optimize our templates for bringing up multiple environments across multple projects in GCP.  Below approach will help spin multiple instances with minimal efforts by introducing .tfvars files into our templates.
