@@ -1,5 +1,5 @@
 ---
-title: terraform-gcp-series-part-3 - Optomizing Terraform to Orchestrate Multiple Environment
+title: Terraform-gcp-series-part-3 - Optomizing Terraform to Orchestrate Multiple Environment
 date: 2021-05-25 22:13:23
 tags: [Terraform, GCP]
 ---
