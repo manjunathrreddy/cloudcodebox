@@ -318,6 +318,19 @@ plugins:
     outdated_browser: false
     # Show a progress bar at top of the page on page loading
     progressbar: true
+    funding:
+      service: custom # string (required) The funding service, if 'custom', url is required
+      url: 'https://example.com/' # string (required if service='custom'), your custom url
+      icon_name: 'name' # string (required if service='custom'), the icon displayed for your service, it's take from simple-icons's pack
+      username: 'name' # string (required) Your ko-fi username
+      enable: true|false # bool (default: true) Specifies if enable this plugin
+      text: '' # string (default: undefined) If specified, overrides the default "Support Me on {service}" string
+      icon_size: '#px' # string (default: '24px') Specifies the icon size (width = height)
+      icon_color: '#rrggbb' # string (default: '#000000') Specifies the icon color
+      border_radius: '#px' # string (default: undefined) If provided, make the container's borders rounded
+      background_color: '#rrggbb' # string (default: undefined) Specifies the container's background color
+      container_padding: '#px' # string (default: '8px') Specifies the internal content padding. Use this in combination with border_radius to achieve a decent result
+
 # CDN provider settings
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
