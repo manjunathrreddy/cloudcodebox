@@ -233,7 +233,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-             Indian_Congress_For_PwD: 'https://www.indiancongressforpersonswithdisabilities.org/'
+             Events: 'https://www.indiancongressforpersonswithdisabilities.org/'
              
     # Categories widget configurations
     -
