@@ -321,10 +321,10 @@ plugins:
     
     funding:
       service: custom # string (required) The funding service, if 'custom', url is required
-      url: 'https://example.com/' # string (required if service='custom'), your custom url
-      icon_name: 'name' # string (required if service='custom'), the icon displayed for your service, it's take from simple-icons's pack
+      url: 'https://milaap.org/fundraisers/support-3rd-indian-congress-for-persons-with-disabilities' # string (required if service='custom'), your custom url
+      icon_name: 'Manjunath' # string (required if service='custom'), the icon displayed for your service, it's take from simple-icons's pack
       username: 'name' # string (required) Your ko-fi username
-      enable: true|false # bool (default: true) Specifies if enable this plugin
+      enable: true # bool (default: true) Specifies if enable this plugin
       text: '' # string (default: undefined) If specified, overrides the default "Support Me on {service}" string
       icon_size: '#px' # string (default: '24px') Specifies the icon size (width = height)
       icon_color: '#rrggbb' # string (default: '#000000') Specifies the icon color
