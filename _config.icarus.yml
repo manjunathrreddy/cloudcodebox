@@ -234,7 +234,7 @@ widgets:
         width: 100
         # Names and URLs of the sites
         links:
-          events: 'https://www.indiancongressforpersonswithdisabilities.org/'
+        events: 'https://www.indiancongressforpersonswithdisabilities.org/'
              
     # Categories widget configurations
     -
