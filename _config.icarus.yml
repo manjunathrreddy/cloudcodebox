@@ -227,9 +227,9 @@ widgets:
         position: Right
         type: toc
     # Recommendation links widget configurations
-#    -
-#        # Where should the widget be placed, left sidebar or right sidebar
-        position: right
+    -
+    # Where should the widget be placed, left sidebar or right sidebar
+        position: Right
         type: links
         # Names and URLs of the sites
         links:
