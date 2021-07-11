@@ -229,11 +229,11 @@ widgets:
     # Recommendation links widget configurations
 #    -
 #        # Where should the widget be placed, left sidebar or right sidebar
-#        position: right
-#        type: links
+        position: right
+        type: links
         # Names and URLs of the sites
-#        links:
-#             Indian_Congress_For_PwD: 'https://www.indiancongressforpersonswithdisabilities.org/'
+        links:
+             Indian_Congress_For_PwD: 'https://www.indiancongressforpersonswithdisabilities.org/'
              
     # Categories widget configurations
     -
