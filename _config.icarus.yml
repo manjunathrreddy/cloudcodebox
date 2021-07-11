@@ -233,7 +233,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            'https://www.indiancongressforpersonswithdisabilities.org/'
+            :'https://www.indiancongressforpersonswithdisabilities.org/'
              
     # Categories widget configurations
     -
