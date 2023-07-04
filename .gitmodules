@@ -6,5 +6,5 @@
 	url = https://github.com/manjunathrreddy/hexo-theme-next-1.git
 [submodule "themes/icarus"]
 	path = themes/icarus
-	url = https://github.com/ppoffice/hexo-theme-icarus.git
+	url = https://github.com/manju-home-company/hexo-theme-icarus.git
 
