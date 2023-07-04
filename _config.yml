@@ -4,7 +4,7 @@ description: ''
 keywords: null
 author: Manjunath Ram Reddy
 language: en
-timezone: ''
+timezone: 'Asia/Calcutta'
 url: 'http://www.cloud-garage.com'
 root: /
 permalink: ':year/:month/:day/:title/'
